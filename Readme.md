@@ -40,4 +40,6 @@ Clone o repositório e instale as dependências:
 ```bash
 pip install streamlit openai
 git clone https://github.com/fragoso-dev/chatbot-IA.git
+
+streamlit run chatBot.py
 ```
